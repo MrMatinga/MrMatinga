@@ -1,16 +1,16 @@
-<!-- Banner Superior Animado -->
+<!-- Banner Superior com Animação e Efeito de Luz -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=240&text=MATT%20⚡&fontAlign=50&fontAlignY=50&color=7c3aed&fontSize=90&fontColor=ffffff&animation=twinkling&desc=CEO%20da%20Delta%20Bots%20|%20Front-end%20Developer&descAlign=50&descAlignY=75" />
 </p>
 
 ---
 
-<!-- Introdução -->
-<h1 align="center" style="color:#b084ff;">✨ Mateus • MATT ✨</h1>
+<!-- Introdução com Efeito de Texto Animado -->
+<h1 align="center" style="color:#b084ff;">✨ Mateus • MATT ⚡</h1>
 <p align="center" style="font-size:18px; line-height:1.6; color:#e0e0e0;">
   <b>Front-end Developer</b> • 16 anos • CEO da <a href="https://delta-bots-pit.webnode.page" target="_blank"><b style="color:#7c3aed;">Delta Bots</b></a>  
   <br>
-  Construindo <b>experiências digitais</b> com design ousado, performance e impacto real.
+  Criando <b>experiências digitais imersivas</b> com design futurista, animações 3D e interatividade avançada.
 </p>
 
 ---
@@ -21,6 +21,8 @@
   <img src="https://skillicons.dev/icons?i=css" width="60" />
   <img src="https://skillicons.dev/icons?i=js" width="60" />
   <img src="https://skillicons.dev/icons?i=react" width="60" />
+  <img src="https://skillicons.dev/icons?i=python" width="60" />
+  <img src="https://skillicons.dev/icons?i=figma" width="60" />
 </div>
 
 ---
@@ -38,6 +40,14 @@
   <div style="background: linear-gradient(135deg, #9333ea, #c084fc); border-radius:15px; padding:20px; width:280px; color:white; box-shadow:0 10px 25px rgba(0,0,0,0.5);">
     <h3>Código limpo & acessível</h3>
     Escalabilidade real
+  </div>
+  <div style="background: linear-gradient(135deg, #4c1d95, #9d4edd); border-radius:15px; padding:20px; width:280px; color:white; box-shadow:0 10px 25px rgba(0,0,0,0.5);">
+    <h3>Animações & Microinterações</h3>
+    Impacto emocional
+  </div>
+  <div style="background: linear-gradient(135deg, #1e40af, #3b82f6); border-radius:15px; padding:20px; width:280px; color:white; box-shadow:0 10px 25px rgba(0,0,0,0.5);">
+    <h3>Roxo + Preto</h3>
+    Assinatura da minha marca ⚡
   </div>
 </div>
 
@@ -75,19 +85,19 @@
   <a href="mailto:mh24092008@gmail.com">
     <img src="https://img.shields.io/badge/Email-c084fc?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://github.com/Mrmatinga/">
+  <a href="https://github.com/mateusdeltabots/">
     <img src="https://img.shields.io/badge/GitHub-7c3aed?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
 ---
 
-<!-- Frase final -->
+<!-- Frase final com Efeito de Texto Animado -->
 <p align="center" style="font-size:18px; margin-top:20px; color:#e0e0e0;">
   <i>"Eu não apenas programo telas, eu crio <b>experiências digitais memoráveis</b>."</i>
 </p>
 
-<!-- Rodapé Animado -->
+<!-- Rodapé com Efeito de Animação -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=7c3aed&height=120&section=footer"/>
 </p>
